@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "marque": "Toyota",
+    "modele": "Yaris",
+    "annee": 2018,
+    "prix": "5 500 000 CFA",
+    "type": "Vente",
+    "image": "images/toyota.jpg",
+    "description": "Toyota Yaris 2018, très bon état, faible consommation."
+  },
+  {
+    "id": 2,
+    "marque": "Mercedes",
+    "modele": "Classe C",
+    "annee": 2020,
+    "prix": "80 000 CFA/jour",
+    "type": "Location",
+    "image": "images/mercedes.jpg",
+    "description": "Mercedes Classe C 2020 disponible en location, luxe et confort."
+  },
+  {
+    "id": 3,
+    "marque": "Peugeot",
+    "modele": "308",
+    "annee": 2017,
+    "prix": "4 000 000 CFA",
+    "type": "Vente",
+    "image": "images/peugeot.jpg",
+    "description": "Peugeot 308 2017, économique et pratique."
+  }
+]
